@@ -1,0 +1,182 @@
+[
+  {
+      "id": 0,
+      "type": "company",
+      "name": "dhealth",
+      "website": "https://dhealth.network/",
+      "cmc_link": "https://coinmarketcap.com/currencies/dhealth/",
+      "description": "Public Blockchain Framework for Healthcare. The domain-specific blockchain is based on NEM’s next core engine “Symbol”. It is optimized for healthcare-related transactions and designed for scalability and openness.",
+      "technology": "DHP is a utility and payment token compliant with the Swiss Financial Market Supervisory Authority (FINMA) regulations for crypto-currencies. Transaction fees on the dHealth Network are paid in DHP. https://dhealth.network/dhp-tokenomics/",
+      "white_paper": "https://dhealth.network/docs/Whitepaper-dHealth-Network.pdf",
+      "address": "Dammstrasse 16, 6300 Zug",
+      "country": "Switzerland",
+      "partners": [
+        "Roche", "Eli Lilly", "Novartis", "University of Zurich"
+      ]
+  },
+  {
+    "id": 1,
+    "type": "company",
+    "name": "Medicalchain",
+    "website": "https://medicalchain.com",
+    "cmc_link": "https://coinmarketcap.com/currencies/medical-chain/",
+    "description": "Medicalchain enables the user to give healthcare professionals access to their personal health data. Medicalchain then records interactions with this data in an auditable, transparent and secure way on Medicalchain’s distributed ledger.",
+    "technology": "",
+    "white_paper": "https://medicalchain.com/en/whitepaper/",
+    "address": "",
+    "country": "UK",
+    "partners": [
+      
+    ]
+  },  
+  {
+    "id": 2,
+    "type": "company",
+    "name": "Solve Care",
+    "website": "https://solve.care/",
+    "cmc_link": "https://coinmarketcap.com/currencies/solve/",
+    "description": "Solve.Care is a global healthcare blockchain technology company.",
+    "technology": "",
+    "white_paper": "https://solve.care/wp-content/uploads/2018/09/lightpaper.pdf",
+    "address": "",
+    "country": "Ukraine",
+    "partners": [
+      "Cyber Physical Chain", "Lyft", "Uber Health", "Widus Partners"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "company",
+    "name": "Avaneer Health",
+    "website": "https://avaneerhealth.com/",
+    "cmc_link": "",
+    "description": "Built on blockchain and FHIR technology, Avaneer Health is a participant-based, inclusive and secure network designed for and by healthcare to drive efficiencies and optimize care for people across their lifetimes.",
+    "technology": "",
+    "white_paper": "",
+    "address": "",
+    "country": "USA",
+    "partners": [
+      "aetna", "Anthem", "Cleveland Clinic", "Health Care Service Corporation", "IBM", "PNC", "Sentara"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "company",
+    "name": "Equideum Health (previously ConsenSys Health)",
+    "website": "https://equideum.health/",
+    "cmc_link": "",
+    "description": "Equideum Health creates Web3 person-centered healthcare and research networks to advance health equity and outcomes by optimizing data liquidity across enterprise and individual data silos, powered by Ethereum.",
+    "technology": "",
+    "white_paper": "/",
+    "address": "",
+    "country": "",
+    "partners": [
+      
+    ]
+  },
+  {
+    "id": 5,
+    "type": "company",
+    "name": "Acoer",
+    "website": "https://www.acoer.com/",
+    "cmc_link": "",
+    "description": "",
+    "technology": "built on Hedera",
+    "white_paper": "N/A",
+    "address": "",
+    "country": "USA",
+    "partners": [
+      "Armedia"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "project",
+    "name": "Pharma Ledger",
+    "website": "https://pharmaledger.eu/",
+    "cmc_link": "",
+    "description": "PharmaLedger is a 36 month project that brings together 12 global pharmaceutical companies and 17 public and private entities.",
+    "technology": "",
+    "white_paper": "",
+    "address": "",
+    "country": "",
+    "partners": [
+      
+    ]
+  },
+  {
+    "id": 7,
+    "type": "company",
+    "name": "Bruin Chain",
+    "website": "https://www.bruinchain.com/",
+    "cmc_link": "",
+    "description": "A blockchain application designed to help deliver real medications to real patients.",
+    "technology": "",
+    "white_paper": "",
+    "address": "",
+    "country": "USA",
+    "partners": [
+      "UCLA"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "conference",
+    "name": "Converge2Accelerate",
+    "website": "https://conv2xsymposium.com/",
+    "cmc_link": "N/A",
+    "description": "Focusing on health policy, telehealth and virtual care, blockchain and edge technologies, ConV2X 2021 is the premier destination community identifying new and cost effective paths forward through real world evidence, strategy, operations, research & trends.",
+    "technology": "",
+    "white_paper": "N/A",
+    "address": "",
+    "country": "",
+    "partners": [
+      
+    ]
+  },
+  {
+    "id": 7,
+    "type": "journal",
+    "name": "Blockchain in Healthcare Today",
+    "website": "https://blockchainhealthcaretoday.com/index.php/journal/index",
+    "cmc_link": "N/A",
+    "description": "Blockchain in Healthcare Today (BHTY) is the world’s first peer reviewed open access journal that amplifies and disseminates distributed ledger technology research and innovations in the healthcare information systems, clinical computing, network technologies and biomedical sciences.",
+    "technology": "",
+    "white_paper": "N/A",
+    "address": "",
+    "country": "USA",
+    "partners": [
+      
+    ]
+  },
+  {
+    "id": 6,
+    "type": "project",
+    "name": "Clinical Supply Blockchain Working Group",
+    "website": "https://www.kitchain.org/",
+    "cmc_link": "",
+    "description": "KitChain is sponsored by the Blockchain for Clinical Supply Chain – Industry Working Group (currently comprised of Pfizer, Biogen, AstraZeneca, Merck, GlaxoSmithKline, Thermo Fisher, IQVIA, UCLA, Deloitte, Marken, Bracket, and Almac).",
+    "technology": "The solution is implemented in Hyperledger Fabric, an open source blockchain platform sponsored by the Linux Foundation and of which LedgerDomain is a member.",
+    "white_paper": "https://www.kitchain.org/#whitepaper",
+    "address": "",
+    "country": "",
+    "partners": [
+      
+    ]
+  },
+  {
+    "id": 7,
+    "type": "conference",
+    "name": "Virtual BlockHealth Summit",
+    "website": "https://blockhealthsummit.org/",
+    "cmc_link": "",
+    "description": "",
+    "technology": "",
+    "white_paper": "N/A",
+    "address": "",
+    "country": "",
+    "partners": [
+      
+    ]
+  }
+]
