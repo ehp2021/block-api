@@ -178,5 +178,20 @@
     "partners": [
       
     ]
+  },
+  {
+    "id": 8,
+    "type": "company",
+    "name": "Medibloc",
+    "website": "https://medibloc.com/en/",
+    "cmc_link": "https://coinmarketcap.com/currencies/medibloc/",
+    "description": "ersonal Healthcare Information Ecosystem, built on blockchain",
+    "technology": "https://github.com/Medibloc",
+    "white_paper": "N/A",
+    "address": "",
+    "country": "South Korea",
+    "partners": [
+      
+    ]
   }
 ]
