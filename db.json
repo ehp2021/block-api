@@ -6,7 +6,7 @@
       "website": "https://dhealth.network/",
       "cmc_link": "https://coinmarketcap.com/currencies/dhealth/",
       "description": "Public Blockchain Framework for Healthcare. The domain-specific blockchain is based on NEM’s next core engine “Symbol”. It is optimized for healthcare-related transactions and designed for scalability and openness.",
-      "technology": "DHP is a utility and payment token compliant with the Swiss Financial Market Supervisory Authority (FINMA) regulations for crypto-currencies. Transaction fees on the dHealth Network are paid in DHP. https://dhealth.network/dhp-tokenomics/",
+      "technology": "https://github.com/dhealthproject/",
       "white_paper": "https://dhealth.network/docs/Whitepaper-dHealth-Network.pdf",
       "address": "Dammstrasse 16, 6300 Zug",
       "country": "Switzerland",
@@ -21,7 +21,7 @@
     "website": "https://medicalchain.com",
     "cmc_link": "https://coinmarketcap.com/currencies/medical-chain/",
     "description": "Medicalchain enables the user to give healthcare professionals access to their personal health data. Medicalchain then records interactions with this data in an auditable, transparent and secure way on Medicalchain’s distributed ledger.",
-    "technology": "TBD",
+    "technology": "https://github.com/medicalchain",
     "white_paper": "https://medicalchain.com/en/whitepaper/",
     "address": "",
     "country": "UK",
@@ -36,7 +36,7 @@
     "website": "https://solve.care/",
     "cmc_link": "https://coinmarketcap.com/currencies/solve/",
     "description": "Solve.Care is a global healthcare blockchain technology company.",
-    "technology": "TBD",
+    "technology": "https://github.com/SolveCare",
     "white_paper": "https://solve.care/wp-content/uploads/2018/09/lightpaper.pdf",
     "address": "",
     "country": "Ukraine",
@@ -51,7 +51,7 @@
     "website": "https://avaneerhealth.com/",
     "cmc_link": "N/A",
     "description": "Built on blockchain and FHIR technology, Avaneer Health is a participant-based, inclusive and secure network designed for and by healthcare to drive efficiencies and optimize care for people across their lifetimes.",
-    "technology": "TBD",
+    "technology": "https://github.com/avaneerhealth",
     "white_paper": "N/A",
     "address": "",
     "country": "USA",
@@ -66,7 +66,7 @@
     "website": "https://equideum.health/",
     "cmc_link": "N/A",
     "description": "Equideum Health creates Web3 person-centered healthcare and research networks to advance health equity and outcomes by optimizing data liquidity across enterprise and individual data silos, powered by Ethereum.",
-    "technology": "TBD",
+    "technology": "https://github.com/Equideum",
     "white_paper": "N/A",
     "address": "",
     "country": "USA",
@@ -81,7 +81,7 @@
     "website": "https://www.acoer.com/",
     "cmc_link": "N/A",
     "description": "Acoer is an award winning technology firm, and a leading developer of practical, usable, real-time blockchain-enabled software.",
-    "technology": "Data Stamping, HashLog, HashLoad, and RightsHash are built on Hedera.",
+    "technology": "N/A",
     "white_paper": "N/A",
     "address": "",
     "country": "USA",
@@ -91,12 +91,12 @@
   },
   {
     "id": 6,
-    "type": "project",
+    "type": "consortium",
     "name": "Pharma Ledger",
     "website": "https://pharmaledger.eu/",
     "cmc_link": "N/A",
     "description": "PharmaLedger is a 36 month project that brings together 12 global pharmaceutical companies and 17 public and private entities.",
-    "technology": "N/A",
+    "technology": "https://github.com/PharmaLedger-IMI",
     "white_paper": "N/A",
     "address": "",
     "country": "",
@@ -106,12 +106,12 @@
   },
   {
     "id": 7,
-    "type": "company",
+    "type": "project",
     "name": "Bruin Chain",
     "website": "https://www.bruinchain.com/",
     "cmc_link": "N/A",
     "description": "A blockchain application designed to help deliver real medications to real patients.",
-    "technology": "LedgerDomain designed, coded, and tested the BRUINchain iPhone application, and supplied the DocuSeal framework, the Oraculous notification service, and Selvedge blockchain application server, as well as hosted the Hyperledger Fabric backend.",
+    "technology": "N/A",
     "white_paper": "N/A",
     "address": "",
     "country": "USA",
@@ -151,12 +151,12 @@
   },
   {
     "id": 6,
-    "type": "project",
+    "type": "consortium",
     "name": "Clinical Supply Blockchain Working Group",
     "website": "https://www.kitchain.org/",
     "cmc_link": "N/A",
     "description": "KitChain is sponsored by the Blockchain for Clinical Supply Chain – Industry Working Group (currently comprised of Pfizer, Biogen, AstraZeneca, Merck, GlaxoSmithKline, Thermo Fisher, IQVIA, UCLA, Deloitte, Marken, Bracket, and Almac).",
-    "technology": "The solution is implemented in Hyperledger Fabric, an open source blockchain platform sponsored by the Linux Foundation and of which LedgerDomain is a member.",
+    "technology": "N/A",
     "white_paper": "https://www.kitchain.org/#whitepaper",
     "address": "",
     "country": "",
@@ -185,11 +185,222 @@
     "name": "Medibloc",
     "website": "https://medibloc.com/en/",
     "cmc_link": "https://coinmarketcap.com/currencies/medibloc/",
-    "description": "ersonal Healthcare Information Ecosystem, built on blockchain",
+    "description": "Personal Healthcare Information Ecosystem, built on blockchain",
     "technology": "https://github.com/Medibloc",
     "white_paper": "N/A",
     "address": "",
     "country": "South Korea",
+    "partners": [
+      
+    ]
+  }
+  ,
+  {
+    "id": 9,
+    "type": "project",
+    "name": "Estonian E-Health Foundation",
+    "website": "https://www.tehik.ee/",
+    "cmc_link": "N/A",
+    "description": "Estonia began using blockchain technology in 2012 to secure healthcare data and process transactions. Now all of the country's healthcare billing is handled on a blockchain, 95% of health information is ledger-based and 99% of all prescription information is digital.",
+    "technology": "N/A",
+    "white_paper": "N/A",
+    "address": "",
+    "country": "Estonia",
+    "partners": [
+      
+    ]
+  },
+  {
+    "id": 10,
+    "type": "company",
+    "name": "Akiri",
+    "website": "https://akiri.com/",
+    "cmc_link": "N/A",
+    "description": "Akiri leverages blockchain principles. Blockchain is a distributed digital record or ledger, similar to a database, with built-in safeguards to ensure that only people authorized do so can make changes to the data. Akiri does not store data. Instead, it’s a network for securely transmitting information through a standardized system of codes.",
+    "technology": "N/A",
+    "white_paper": "N/A",
+    "address": "San Francisco, CA",
+    "country": "USA",
+    "partners": [
+      "Celgene", "American Medical Association"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "company",
+    "name": "BurstIQ",
+    "website": "https://www.burstiq.com/",
+    "cmc_link": "N/A",
+    "description": "BurstIQ’s platform helps healthcare companies safely and securely manage massive amounts of patient data. Its blockchain technology enables the safekeeping, sale, sharing or license of data while maintaining strict compliance with HIPAA rules.",
+    "technology": "https://github.com/BurstIQ",
+    "white_paper": "N/A",
+    "address": "Denver, CO",
+    "country": "USA",
+    "partners": [
+      
+    ]
+  },
+  {
+    "id": 12,
+    "type": "company",
+    "name": "GuardTime",
+    "website": "https://guardtime.com/",
+    "cmc_link": "N/A",
+    "description": "Guardtime is helping healthcare companies and governments implement blockchain into their cybersecurity methods. The company was vital in helping implement blockchain in Estonia's healthcare systems, and it recently signed a deal with a private healthcare provider in the United Arab Emirates to bring blockchain to its data privacy systems.",
+    "technology": "https://github.com/guardtime",
+    "white_paper": "N/A",
+    "address": "",
+    "country": "Estonia",
+    "partners": [
+      
+    ]
+  },
+  {
+    "id": 13,
+    "type": "company",
+    "name": "ProCredEx",
+    "website": "https://procredex.com/",
+    "cmc_link": "N/A",
+    "description": "ProCredEx has created a distributed ledger of healthcare credentials data that boosts complex dataset efficiency by rendering the data immutable and permanently traceable, allowing data to be curated to meet unique organizational requirements and shared with authorized partners.",
+    "technology": "https://github.com/guardtime",
+    "white_paper": "N/A",
+    "address": "Tampa, FL",
+    "country": "USA",
+    "partners": [
+      
+    ]
+  },
+  {
+    "id": 14,
+    "type": "company",
+    "name": "Coral Health",
+    "website": "https://mycoralhealth.com/",
+    "cmc_link": "N/A",
+    "description": "Coral Health uses blockchain to accelerate the care process, automate administrative processes and improve health outcomes. By inserting patient information into distributed ledger technology, the company connects doctors, scientists, lab technicians and public health authorities quicker than ever. Coral Health also implements smart contracts between patients and healthcare professionals to ensure data and treatments are accurate.",
+    "technology": "https://github.com/mycoralhealth",
+    "white_paper": "N/A",
+    "address": "",
+    "country": "Canada",
+    "partners": [
+      
+    ]
+  },
+  {
+    "id": 15,
+    "type": "company",
+    "name": "RoboMed",
+    "website": "https://robomed.io/",
+    "cmc_link": "N/A",
+    "description": "Robomed combines AI and blockchain to offer patients a single point of care. The company deploys chatbots, wearable diagnostic tools and telemedicine sessions to gather patient information and share it with the patient’s medical team. ",
+    "technology": "https://github.com/RoboMed",
+    "white_paper": "N/A",
+    "address": "",
+    "country": "Russia",
+    "partners": [
+      
+    ]
+  },
+  {
+    "id": 16,
+    "type": "company",
+    "name": "Patientory",
+    "website": "https://patientory.com/",
+    "cmc_link": "https://coinmarketcap.com/currencies/patientory/",
+    "description": "Patientory's blockchain platform enables the secure storage and transfer of important medical information.",
+    "technology": "https://github.com/Patientory",
+    "white_paper": "https://github.com/Patientory/white-paper/blob/master/Patientory_Whitepaper.pdf",
+    "address": "Atlanta, Georgia",
+    "country": "USA",
+    "partners": [
+      "HIMSS", "Georgia State University", "StartUpHealth", "TrialScope"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "company",
+    "name": "Embleema",
+    "website": "https://www.embleema.com/",
+    "cmc_link": "N/A",
+    "description": "Embleema is a virtual trial and regulatory analytics platform designed to fast track drug development. Users are recruited to digitally consent to secure, untampered medical data collection, which is then stored on Embleema’s blockchain and analyzed.",
+    "technology": "https://github.com/Embleema",
+    "white_paper": "N/A",
+    "address": "New York, NY",
+    "country": "USA",
+    "partners": [
+
+    ]
+  },
+  {
+    "id": 16,
+    "type": "consortium",
+    "name": "Synaptic Health Alliance",
+    "website": "https://www.synaptichealthalliance.com/",
+    "cmc_link": "N/A",
+    "description": "Synaptic Health Alliance joins leaders in healthcare to explore how blockchain technology can help address some of the toughest problems in healthcare. Synaptic’s members include Aetna, Humana, MultiPlan, Quest Diagnostics, and UnitedHealth Group.",
+    "technology": "https://github.com/OptumBlockchainServices",
+    "white_paper": "https://f.hubspotusercontent40.net/hubfs/4801399/Synaptic_Health_Alliance_Blockchain_White_Paper_Updated.pdf",
+    "address": "",
+    "country": "USA",
+    "partners": [
+      "aetna", "Humana", "MultiPlan", "Quest Diagnostics", "United Health Group"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "company",
+    "name": "Chronicled",
+    "website": "https://www.chronicled.com/",
+    "cmc_link": "N/A",
+    "description": "Chronicled builds blockchain networks that demonstrate chain-of-custody. The networks help pharma companies make sure their medicines arrive efficiently, and they enable law enforcement to review any suspicious activity — like drug trafficking. In 2017, Chronicled created the Mediledger Project, a ledger system dedicated to the safety, privacy and efficiency of medical supply chains.",
+    "technology": "https://github.com/chronicled/",
+    "white_paper": "N/A",
+    "address": "",
+    "country": "USA",
+    "partners": [
+      
+    ]
+  },
+  {
+    "id": 18,
+    "type": "company",
+    "name": "Block Pharma",
+    "website": "https://www.blockpharma.com/",
+    "cmc_link": "N/A",
+    "description": "Blockpharma's blockchain-based system can help prevent patients from taking counterfeit medicines.",
+    "technology": "N/A",
+    "white_paper": "N/A",
+    "address": "",
+    "country": "France",
+    "partners": [
+      
+    ]
+  },
+  {
+    "id": 19,
+    "type": "company",
+    "name": "Tierion",
+    "website": "https://tierion.com/",
+    "cmc_link": "N/A",
+    "description": "Tierion’s blockchain audits documents, records and medicines to keep a clear history of possession. The company uses timestamps and credentials to maintain proof of ownership throughout a medical supply chain.",
+    "technology": "https://github.com/chainpoint/chainpoint-start",
+    "white_paper": "N/A",
+    "address": "",
+    "country": "USA",
+    "partners": [
+      
+    ]
+  },
+  {
+    "id": 20,
+    "type": "company",
+    "name": "EncrypGen",
+    "website": "https://encrypgen.com/",
+    "cmc_link": "https://coinmarketcap.com/currencies/encrypgen/",
+    "description": "The EncrypGen Gene-Chain is a blockchain-backed platform that facilitates the searching, sharing, storage, buying and selling of genetic information. The company protects its users' privacy by allowing only other members to purchase the genetic information using safe, traceable DNA tokens.",
+    "technology": "https://github.com/chainpoint/chainpoint-start",
+    "white_paper": "N/A",
+    "address": "Coral Springs, FL",
+    "country": "USA",
     "partners": [
       
     ]
