@@ -404,5 +404,35 @@
     "partners": [
       
     ]
+  },
+  {
+    "id": 21,
+    "type": "company",
+    "name": "EOS Costa Rica - Life Bank",
+    "website": "https://lifebank.io/",
+    "cmc_link": "N/A",
+    "description": "An incentive-based EOSIO blockchain solution for blood donations. EOS Costa Rica is an independently-owned, self-funded, bare-metal Genesis block producer that provides stable and secure infrastructure for EOSIO blockchains.",
+    "technology": "https://github.com/eoscostarica/lifebank",
+    "white_paper": "N/A",
+    "address": "",
+    "country": "Costa Rica",
+    "partners": [
+      
+    ]
+  },
+  {
+    "id": 22,
+    "type": "company",
+    "name": "Hashed Health",
+    "website": "https://hashedhealth.com/",
+    "cmc_link": "N/A",
+    "description": "Hashed Health is the leading distributed ledger innovation firm in the healthcare sector. ",
+    "technology": "N/A",
+    "white_paper": "N/A",
+    "address": "",
+    "country": "USA",
+    "partners": [
+      
+    ]
   }
 ]
